@@ -3,3 +3,4 @@ flask-cors==3.0.10
 transformers==4.21.0
 torch
 gunicorn
+Werkzeug==2.0.3
